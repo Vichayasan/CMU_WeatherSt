@@ -1,5 +1,6 @@
 ## Firmware Version
 - 0.0.1: OTA testing via Wi-Fi
+- 0.0.2: OTA testing via GSM
 
 
 ## License & Ownership
